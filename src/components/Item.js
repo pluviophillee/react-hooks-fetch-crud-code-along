@@ -40,4 +40,4 @@ function Item({ item, onUpdateItem, onDeleteItem }) {
   );
 }
 
-export default Item;  
+export default Item;
